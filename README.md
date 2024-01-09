@@ -4,8 +4,6 @@ MVM026
 
 SideBander
 
-youtube.com/MidiverseTV
-
 - 6HP
 - 38mm Deep
 - +12V: 43mA / -12V: 45mA
@@ -22,3 +20,5 @@ Intriguingly, FM synthesis naturally produces sidebands that deviate from a carr
 Sidebander offers a novel approach to exploring sonic landscapes, enabling users to extract pure waveforms, unison effects, FM-like sounds, and tone clusters, all within a single, versatile module.
 
 Original concept and firmware developed by: Cory Kiser
+
+youtube.com/MidiverseTV
